@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm James!
+
+I am a environmental data analyst and creative programer.
 
 <!--
 **kitchensjn/kitchensjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
