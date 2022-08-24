@@ -1,6 +1,6 @@
 ### Hi, I'm James!
 
-I am a first year graduate student studying population genetics in the Coop Lab through the UC Davis Population Graduate Group. Before graduate school, I interned at NASA’s Jet Propulsion Lab in Pasadena, California, researching the application of remote sensing for groundwater observation and management. In December 2019, I graduated from Warren Wilson College in Asheville, North Carolina, where I earned a B.S. in Biology and B.S. in Chemistry. While in undergraduate, I worked in the Warren Wilson College Plant Physiology and Genetics Laboratory as a Research Assistant on projects focused around the conservation of human-impacted species in the United States.
+I am a graduate student studying population genetics in the Coop Lab through the UC Davis Population Graduate Group. Before graduate school, I interned at NASA’s Jet Propulsion Lab in Pasadena, California, researching the application of remote sensing for groundwater observation and management. In December 2019, I graduated from Warren Wilson College in Asheville, North Carolina, where I earned a B.S. in Biology and B.S. in Chemistry. While in undergraduate, I worked in the Warren Wilson College Plant Physiology and Genetics Laboratory as a Research Assistant on projects focused around the conservation of human-impacted species in the United States.
 
 <!--
 **kitchensjn/kitchensjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
